@@ -50,8 +50,10 @@ Changing the Countdown Timer
 =============================
 Open the JS Tab from the Zendesk theme editor and find the below lines of code:
 
-//Counter Script//
-var finalDate = '2015/01/01';
+```
+ //Counter Script//
+ var finalDate = '2015/01/01';
+ ```
 
 Change the date to whatever date you want and the countdown script will start counting donw.
 
@@ -61,16 +63,18 @@ Changing the Background Images
 Upload your image/images to the Assets tab.
 Open the JS tab from the Zendesk theme editor and find the below lines of code:
 
+```
  //Backstretch Plugin single image 
-//$.backstretch("/hc/theme_assets/426700/200017498/cs-bg.jpg");
+ //$.backstretch("/hc/theme_assets/426700/200017498/cs-bg.jpg");
 
  //Backstretch Plugin multiple images
   $("#intro").backstretch([
-     "/hc/theme_assets/426700/200017498/cs-bg.jpg"
+    "/hc/theme_assets/426700/200017498/cs-bg.jpg"
     , "/hc/theme_assets/426700/200017498/CS-bg-4.jpg"
-     , "/hc/theme_assets/426700/200017498/CS-bg-3.jpg"
-     , "/hc/theme_assets/426700/200017498/CS-back.jpg"
-  ], {duration: 7000, fade: 750});
+    , "/hc/theme_assets/426700/200017498/CS-bg-3.jpg"
+    , "/hc/theme_assets/426700/200017498/CS-back.jpg"
+    ], {duration: 7000, fade: 750}); 
+```
   
   If you want a single image then uncomment by removing the double forward slashes (//) and put the URL to your image file.  Then comment out all of the multiple images.
   
