@@ -1,0 +1,56 @@
+<!-- Intro Section -->
+   <section id="intro">
+
+   	<header class="row">	 
+
+			<div id="logo" >
+				<a href="#" >
+                <img src="" alt="">                
+              </a>					
+			</div>
+			
+   	</header> <!-- Header End -->   	
+
+   	<div  id="main" class="row">
+
+	   	<div class="twelve columns">
+	   			
+	   		<h1><b>We are currently working on something awesome. Stay tuned!</h1></b>
+
+	   		<p>Our new Help Center Community is going to blow your mind.</p>
+
+	   		<h5>We are trying our best to have the Help Center ready in:</h5>
+
+	   		<div id="counter" class="cf">
+	   			<span>00 <em>days</em></span> 
+ 					<span>00 <em>hours</em></span>
+					<span>00 <em>minutes</em></span>
+ 					<span>00 <em>seconds</em></span> 
+   			</div>					
+
+   			
+	      
+	           
+	          <p>Need Help - Please feel free to submit us a ticket:</p>     
+	           <div class="action">
+			         <a href="/hc/en-us/requests/new?" class="button">Submit Ticket</a>
+	         	</div>
+	  
+	          
+	        
+<br>
+	         <ul class="social">
+	            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+	            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+	            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+	            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+	            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+	            <li><a href="#"><i class="fa fa-skype"></i></a></li>
+            </ul>
+
+         </div> 
+
+      </div> <!-- main end -->    	
+
+   </section> <!-- end intro section -->
+   
