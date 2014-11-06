@@ -1,6 +1,6 @@
 Pre-Launch
 =======================
-Pre-Launch is a simple theme that you can use while you are building our your new Zendesk theme.  This theme currently give you a countdown time along with the ability to submit tickets.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
+Pre-Launch is a simple theme that you can use while you are building our your new Zendesk theme.  This theme currently gives you a countdown timer along with the ability to submit tickets.  This is a very simple theme and you only have to edit two pages of HTML.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
 
 See it Live Here:  http://moderatorwes.zendesk.com (for a limited time only)
 
@@ -17,9 +17,9 @@ Features
 * Bootstrap Responsive FrameWork
 * FontAwesome Icons
 * Google Fonts
-* JQuery countdown timer
-* Backstretch JQuery Plugin
-* High Quality Images
+* JQuery countdown timer (http://hilios.github.io/jQuery.countdown/)
+* Backstretch JQuery Plugin (http://srobbin.com/jquery-plugins/backstretch/)
+* High Quality Images from (https://unsplash.com/)
 * Custom HTML, CSS, & JavaScript
 * more..
 
