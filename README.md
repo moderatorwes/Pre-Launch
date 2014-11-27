@@ -2,6 +2,8 @@ Pre-Launch
 =======================
 Pre-Launch is a simple theme that you can use while you are building out your new Zendesk theme.  This theme currently gives you a countdown timer along with the ability to submit tickets.  This is a very simple theme and you only have to edit two pages of HTML.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
 
+Once the theme is active there will not be a link to login into the HelpCenter so you can type the following URL in order to edit the theme:  http://yoururl.zendesk.com/hc/admin/apperance
+
 See it Live Here:  http://moderatorwes.zendesk.com (for a limited time only)
 
 Like my theme then show your appreciation with a cup of coffee or two.  
@@ -35,15 +37,18 @@ Assets
 CSS
 * Open up the CSS folder and click on CSS.css
 * Copy and Paste the code into the CSS tab in ZenDesk
+* Edit line 21 to point to your background image in your Assets folder
 
 JS
 * Open up the JS folder and click on the JS.fs
 * Copy and Paste the code into the JS tab in ZenDesk
+* Change the image URL to point to your images in your Assets folder
 
 HTML
 * Open up the HTML folder and click on one of the html files.
 * Copy and Paste the code into Zendesk
 * VERY IMPORTANT - Change the links in the Document Head to point to your Assets folder
+* In the Document Head you will need to point to your jquery.countdownn.min.js file.
 
 
 Changing the Countdown Timer
