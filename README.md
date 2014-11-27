@@ -12,6 +12,7 @@ Like my theme then show your appreciation with a cup of coffee or two.
 Updates
 ========
 * 11/06/14 - Coming Soon
+* 11/26/14 - Live
 
 
 Features
@@ -87,9 +88,9 @@ Open the JS tab from the Zendesk theme editor and find the below lines of code:
 
 Screenshots
 ===========
-![Alt text](/Screenshots/Midnight-Home.png?raw=true "Home Page")
-![Alt text](/Screenshots/Midnight-Community.png?raw=true "Community Page")
-![Alt text](/Screenshots/Midnight-Contributions.png?raw=true "Contributions")
+![Alt text](/Screenshots/HC-PreLaunch1.png?raw=true "Home Page")
+![Alt text](/Screenshots/HC-PreLaunch2.png?raw=true "Community Page")
+![Alt text](/Screenshots/HC-PreLaunch3.png?raw=true "Contributions")
 
 
 
