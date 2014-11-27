@@ -90,7 +90,7 @@ Screenshots
 ===========
 ![Alt text](/Screenshots/HC-PreLaunch1.png?raw=true "Home Page")
 ![Alt text](/Screenshots/HC-PreLaunch2.png?raw=true "Community Page")
-![Alt text](/Screenshots/HC-PreLaunch3.png?raw=true "Contributions")
+![Alt text](/Screenshots/HC-PreLanuch3.png?raw=true "Contributions")
 
 
 
