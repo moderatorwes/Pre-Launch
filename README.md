@@ -2,7 +2,6 @@ Pre-Launch
 =======================
 Pre-Launch is a simple theme that you can use while you are building out your new Zendesk theme.  This theme currently gives you a countdown timer along with the ability to submit tickets.  This is a very simple theme and you only have to edit two pages of HTML.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
 
-Once the theme is active there will not be a link to login into the HelpCenter so you can type the following URL in order to edit the theme:  http://yoururl.zendesk.com/hc/admin/apperance
 
 See it Live Here:  http://moderatorwes.zendesk.com (for a limited time only)
 
